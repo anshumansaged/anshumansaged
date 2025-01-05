@@ -9,11 +9,12 @@ I'm Anshuman Singh, a passionate backend developer from India.
 </h4>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/anshuman-singh-0541a41b4/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/anshuman-singh-0541a41b4/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a> 
 <a href="https://github.com/avwonderfulboy"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 <br/>
+
 <h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
@@ -45,8 +46,8 @@ I'm Anshuman Singh, a passionate backend developer from India.
 <h3 align="center">Recent Activity:</h3>
 
 <p align="center">
-  <a href="https://github.com/avwonderfulboy/your-repo/pulls"><img src="https://img.shields.io/github/issues-pr/avwonderfulboy/your-repo?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests Open"></a>
-  <a href="https://github.com/avwonderfulboy/your-repo/commits"><img src="https://img.shields.io/github/commit-activity/w/avwonderfulboy/your-repo?style=for-the-badge&logo=github&logoColor=white" alt="Commit Activity"></a>
+<img src="https://github-readme-stats.vercel.app/api/streak?username=avwonderfulboy&theme=radical" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/pull-requests-comparison?username=avwonderfulboy&theme=radical" alt="Pull Requests">
 </p>
 
 ---
