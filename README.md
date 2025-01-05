@@ -29,9 +29,53 @@ I'm Anshuman Singh, a passionate backend developer from India.
 </p>
 
 <br/>
+
 <h3 align="center">GitHub Stats:</h3>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=avwonderfulboy&show_icons=true&theme=radical" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avwonderfulboy&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<br/>
+
+<h3 align="center">Recent Activity:</h3>
+
+<p align="center">
+  <a href="https://github.com/avwonderfulboy/your-repo/pulls"><img src="https://img.shields.io/github/issues-pr/avwonderfulboy/your-repo?style=for-the-badge&logo=github&logoColor=white" alt="Pull Requests Open"></a>
+  <a href="https://github.com/avwonderfulboy/your-repo/commits"><img src="https://img.shields.io/github/commit-activity/w/avwonderfulboy/your-repo?style=for-the-badge&logo=github&logoColor=white" alt="Commit Activity"></a>
+</p>
+
+---
+
+<h3 align="center">Contributing</h3>
+
+<p align="center">
+We welcome contributions! Fork the repository and submit a pull request to improve the project.
+</p>
+
+<p align="center">
+- Fork the repository
+- Create a new branch (`git checkout -b feature-branch`)
+- Make your changes
+- Commit your changes (`git commit -m 'Add feature'`)
+- Push to the branch (`git push origin feature-branch`)
+- Open a pull request
+</p>
+
+---
+
+<h3 align="center">License</h3>
+
+<p align="center">
+Distributed under the MIT License. See `LICENSE` for more information.
+</p>
+
+<h3 align="center">Acknowledgments</h3>
+
+<p align="center">
+Thank you to [Contributors/Technologies/Resources].
 </p>
